@@ -1,5 +1,6 @@
 {
     "name": "five-second-game-zoo-manager",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*",
